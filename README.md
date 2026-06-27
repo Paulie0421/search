@@ -1,2 +1,2 @@
 # search
-google.com
+[Google](https://google.com)
